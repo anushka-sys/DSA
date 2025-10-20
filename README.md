@@ -1,2 +1,3 @@
 # DSA
-DSA problems that i solved
+
+This Repo includes DSA problems from beginer to advanced concepts
